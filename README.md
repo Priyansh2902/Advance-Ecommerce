@@ -38,7 +38,7 @@
 1. **Clone the repository**:
 
    ```shell
-   git clone https://github.com/Priyansh2902/Ecommerce.git
+   git clone https://github.com/Priyansh2902/Advance-Ecommerce.git
    ```
 
 2. **Open the project in Visual Studio 2022 (Preview)**.
@@ -59,7 +59,7 @@
 
 ## Contribution
 
-🤝 Contributions to Ecommerce are welcome! If you encounter any issues or have suggestions for improvements, please create an issue in the [GitHub repository](https://github.com/Priyansh2902/Ecommerce). Feel free to fork the repository and submit pull requests to contribute directly.
+🤝 Contributions to Ecommerce are welcome! If you encounter any issues or have suggestions for improvements, please create an issue in the [GitHub repository](https://github.com/Priyansh2902/Advance-Ecommerce). Feel free to fork the repository and submit pull requests to contribute directly.
 
 ## License
 
